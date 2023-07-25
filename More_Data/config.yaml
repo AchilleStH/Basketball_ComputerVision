@@ -1,0 +1,7 @@
+path: /Users/achillesaint-hillier/Desktop/Computer_Vision/More_Data
+train: images/train
+val: images/val
+
+names:
+  0: basketball
+  1: rim

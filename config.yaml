@@ -1,0 +1,6 @@
+path: /Users/achillesaint-hillier/Desktop/Computer_Vision/Basketball_ComputerVision
+train: images/train
+val: images/val
+
+names:
+  0: basketball
